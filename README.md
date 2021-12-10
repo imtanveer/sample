@@ -5,5 +5,7 @@ Dependency Java Maven
 Steps to clone execute the tests
 
 git clone https://github.com/imtanveer/sample.git
+
 cd sample
+
 mvn clean test
