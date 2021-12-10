@@ -3,6 +3,7 @@ This is a sample project to demonstrate what is page object model framework and 
 Dependency Java Maven
 
 Steps to clone execute the tests
-git clone 
+
+git clone https://github.com/imtanveer/sample.git
 cd sample
 mvn clean test
